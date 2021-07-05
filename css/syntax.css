@@ -1,16 +1,7 @@
-/*ID'S - 100 POINT*/
-#main-content p{
-    color: red;
-}
-/*ELEMENTS - 1 POINT*/
 p{
-    color: black;
-}
-/*classes - 10 POINTs*/
-.test{
-    color: green;
+    color: red !important;/*nadpisuje wszystkie p no matter what*/
 }
 
-strong{
-    color:green
+#main-content p{
+    color: green;
 }
