@@ -1,16 +1,16 @@
-body{
+/*ID'S - 100 POINT*/
+#main-content p{
     color: red;
 }
-
-div{
-    color: blue;
-}
-
+/*ELEMENTS - 1 POINT*/
 p{
+    color: black;
+}
+/*classes - 10 POINTs*/
+.test{
     color: green;
 }
 
-a{
-    color:yellow;
-    text-decoration: underline;
+strong{
+    color:green
 }
