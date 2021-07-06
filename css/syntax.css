@@ -1,10 +1,9 @@
 .static-width{
     width: 300px;
     height: 300px;
-    background-color:#606060;
-    background-image: url(https://www.colorland.pl/sites/default/files/article-image/kot1_1.jpg);
-    background-repeat: no-repeat;
-    background-position: center ; /*mozna tez % alb px*/
+    background: url(https://d-art.ppstatic.pl/kadry/k/r/1/bf/e5/599071da08ed8_o_medium.jpg) no-repeat top center;
+    background-color: #606060;
     background-size: 420px;
+/*mozna też szybciej zdefiniować tło, kolor i rozmiar oddzielnie!*/
 }
 
